@@ -8,9 +8,10 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
-        System.out.println( "How are you?" );
-        System.out.println( "Woow.... its comming" );
+        System.out.println( "Graded Assignment" );
+        System.out.pringln();
+        System.out.println( "HELLO DEV-OPS" );
+        System.out.println();
         
     }
 }
